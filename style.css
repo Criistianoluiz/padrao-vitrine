@@ -1,8 +1,4 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 
 header {
     background-color: rgb(206, 207, 207);
@@ -10,14 +6,9 @@ header {
     margin-right: px;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  nav ul li {
-    display: inline; 
-    margin-right: 20px; 
-  }
-  
+nav {
+    position: relative;
+    display: block;
+    letter-spacing: 0.16rem;
+    box-sizing: border-box;
+}
