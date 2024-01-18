@@ -96,3 +96,30 @@ ul .menu-itens {
     margin: 40px 0px 40px 60px;
     padding: 10px;
 }
+
+footer {
+    background-color: white;
+    color: #080808;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer-section {
+    max-width: 300px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black
+  }
+  
+  .social-link {
+    display: block;
+    margin-bottom: 10px;
+  }
