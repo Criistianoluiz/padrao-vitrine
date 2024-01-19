@@ -18,7 +18,7 @@ header {
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 241);
 }
 
 header img {
@@ -70,7 +70,7 @@ ul .menu-itens {
     box-sizing: border-box;
     color: white;
     cursor: pointer;
-    border: 1px solid ed;
+    border: 1px solid red;
 }
  
 
@@ -82,7 +82,7 @@ ul .menu-itens {
     max-width: 100%;
     justify-content: center;
     margin: 0 auto;
-
+    border: 1px solid red;
 }
 
 .product-info {
@@ -96,10 +96,11 @@ ul .menu-itens {
     border: 1px solid ed;
     margin: 40px 0px 40px 60px;
     padding: 10px;
+    border: 1px solid red;
 }
 
 footer {
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 241);
 }
 
 .footer-class {
@@ -109,7 +110,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 241);
   }
   
   .footer-class img {

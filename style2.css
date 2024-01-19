@@ -18,7 +18,7 @@ header {
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 241);
 }
 
 header img {
@@ -99,7 +99,7 @@ ul .menu-itens {
 }
 
 footer {
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 241);
 }
 
 .footer-class {
@@ -109,7 +109,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: antiquewhite;
+    background-color: rgb(250, 215, 241);
   }
   
   .footer-class img {
